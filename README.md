@@ -2,6 +2,9 @@
 
 En este repositorio se presenta el segundo Trabajo Práctico para la materia Laboratorio de Datos de la carrera de Licenciatura en Ciencia de Datos.
 
+Los temas evaluados, de la materia, son:
+- Entrenamiento y evaluación de modelos de aprendeizaje automático.
+
 ## Sobre el Proyecto
 
 ### Objetivo del proyecto:
@@ -13,7 +16,7 @@ Dado el conjunto de imagenes llamado Sign Language MNIST, queremos poder respond
 Para responder esas preguntas se realizó un análisis, experimentación, entrenamiento y evaluación de los modelos K-nearest neighbors y Árboles de Decisión.
 
 ### Fuentes
-Conjunto de imagenes del abecedario en lengua de señas estadounidense, a exepción de las letras J y Z que necesitan movimiento. Este conjunto se conoce como Sign Language MNIST en Kaggle.
+Conjunto de imagenes(28x28 píxeles) del abecedario en lengua de señas estadounidense, a exepción de las letras J y Z (requieren movimiento). Este conjunto se conoce como Sign Language MNIST en Kaggle.
 
 Fuente:. https://www.kaggle.com/datasets/datamunge/sign-language-mnist
 <p align='center'> <img src = 'img/kaggle.jpg' style='width:200px'> </p>
